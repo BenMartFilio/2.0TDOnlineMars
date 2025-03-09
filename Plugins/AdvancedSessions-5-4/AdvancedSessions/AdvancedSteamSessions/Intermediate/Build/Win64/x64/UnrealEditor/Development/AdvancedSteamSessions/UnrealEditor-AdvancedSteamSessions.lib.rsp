@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\GD1_UE_MARTINEZFILIO\Workshop3\Github\Steam\Intermediate\Build\Win64\x64\SteamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
-"C:\GD1_UE_MARTINEZFILIO\Workshop3\Github\Steam\Plugins\AdvancedSessions-5-4\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"C:\GD1_UE_MARTINEZFILIO\Workshop3\Github\Steam\Plugins\AdvancedSessions-5-4\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
-/OUT:"C:\GD1_UE_MARTINEZFILIO\Workshop3\Github\Steam\Plugins\AdvancedSessions-5-4\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
+"E:\Projet\Jeu\Unreal\OnlineTDMars\2.0TDOnlineMars\Intermediate\Build\Win64\x64\SteamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\Projet\Jeu\Unreal\OnlineTDMars\2.0TDOnlineMars\Plugins\AdvancedSessions-5-4\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"E:\Projet\Jeu\Unreal\OnlineTDMars\2.0TDOnlineMars\Plugins\AdvancedSessions-5-4\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"E:\Projet\Jeu\Unreal\OnlineTDMars\2.0TDOnlineMars\Plugins\AdvancedSessions-5-4\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
